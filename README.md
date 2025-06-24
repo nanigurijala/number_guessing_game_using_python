@@ -1,2 +1,2 @@
-# number_guessing_game_using_python
+# number-guessing-game-using-python
 NUMBER GUESSING GAME
